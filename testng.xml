@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="E:/INTELLIJ_PROJECTS/Selenium_Projects/BanuprathapPOMDemo/NOPCommerce/src/main/java/com/nopecommerce/admin/testcases/A.java"><classes><class name="com.nopecommerce.admin.testcases.A"><methods><include name="functionA"/></methods></class></classes></test></suite>
